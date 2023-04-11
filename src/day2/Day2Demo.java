@@ -13,4 +13,6 @@ public void getResult() {
 	System.out.println(2+3);
 	
 }
+	
+	String name = "Gustavo";
 }
