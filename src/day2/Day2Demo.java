@@ -15,4 +15,10 @@ public void getResult() {
 }
 	
 	String name = "Gustavo";
+
+public void getMessage() {
+	
+	System.out.println("Hi Guys");
+}
+
 }
