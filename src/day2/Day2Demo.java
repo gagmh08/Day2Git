@@ -21,4 +21,9 @@ public void getMessage() {
 	System.out.println("Hi Guys");
 }
 
+public void substract(int a, int b) {
+	
+	System.out.println(b-a);
+}
+
 }
